@@ -1,2 +1,2 @@
 # Problema-de-Jigsaw
-Resolución del problema de Jigsaw. Para mas detalles, leer el readme.
+*** Se inserta acá un gran informe de la explicación del problema y su resolución del mismo pero que todavía no lo voy hacer porque todavía no se terminó ***
